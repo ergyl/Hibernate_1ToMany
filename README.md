@@ -1,6 +1,6 @@
 
 
-A simple school task that let's me practise mapping Java (domain) objects to database tables using the javax.persistence package.
+A simple school task that let's me practise mapping Java (domain) objects to database tables using the javax.persistence package while learning Hibernate.
 
 ## Domain classes
 - se.yrgo.domain.Animal
