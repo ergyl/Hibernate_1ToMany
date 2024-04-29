@@ -17,3 +17,7 @@ out/
 *.zip
 *.tar.gz
 *.rar
+
+# db-derby
+/db-derby
+
