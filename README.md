@@ -3,8 +3,8 @@
 A simple school task that let's me practise mapping Java (domain) objects to database tables using the javax.persistence package.
 
 ## Domain classes
-se.yrgo.Animal
-se.yrgo.Zoo
+- se.yrgo.domain.Animal
+- se.yrgo.domain.Zoo
 
 *One Zoo can have many animals, but one animal can only be in one zoo.*
 
